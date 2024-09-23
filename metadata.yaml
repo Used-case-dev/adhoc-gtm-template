@@ -1,0 +1,5 @@
+homepage: "https://www.adhocpixel.com"
+documentation: "https://www.adhocpixel.com/documentation"
+versions:
+  - sha: <je commit SHA nummer>
+    changeNotes: Initial release.
