@@ -1,5 +1,5 @@
 homepage: "https://www.adhocpixel.com"
 documentation: "https://www.adhocpixel.com/documentation"
 versions:
-  - sha: <je commit SHA nummer>
+  - sha: "70b977f2b68abd8bfa45a12130a1f72c315eab59"
     changeNotes: Initial release.
